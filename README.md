@@ -1,1 +1,1 @@
-Assignments of Object Oriented Programming lecture at Gebze Technical University
+Assignments of Introduction to C Programming lecture at Gebze Technical University
